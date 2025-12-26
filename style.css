@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+    background: #fff;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.header-inner {
+    height: 70px;
+    margin: 0 auto;
+    padding: 0 40px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+
+.aboutusgalery {
+    display: flex;
+    gap: 15px;
+    margin-left: auto;
+}
+
+.btn {
+    margin-left: 10px;
+}
+
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo-text {
+    font-size: 23px;
+    font-weight: 700;
+    color: #3b5362;
+}
+
+.aboutusgalery {
+    display: flex;
+    gap: 15px;
+}
+
+.aboutusgalery a {
+    text-decoration: none;
+    font-size: 13px;
+    color: #3b6ea5;
+    font-weight: 600;
+}
+
+.btn {
+    background: #7ac400;
+    color: #fff;
+    padding: 10px 18px;
+    border-radius: 6px;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.leftblock {
+    display: flex;
+    width: 960px;
+    height: 960px;
+    background: linear-gradient(181deg, #bfe5f5 0%, #c6eee8 100%);
+    justify-content: center;
+    align-items: center;
+}
+
+.molbert {
+    height:878px;
+    width: 561px;
+}
+.wrapper{
+    padding-top:19px;
+    padding-bottom: 19px;
+    background-color: #333333;
+}
+.wrapper p{
+    color: #d6edfb;
+    text-align: center;
+}
