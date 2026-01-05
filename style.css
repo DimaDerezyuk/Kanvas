@@ -139,11 +139,6 @@
     transition: 0.2s;
 }
 
-.size:hover {
-    background: #4c7792;
-    color: #ffffff;
-}
-
 .choosesize {
     display: inline-block;
     margin-top: 8px;
@@ -172,12 +167,4 @@
     font-size: 13px;
 }
 
-@media (max-width: 1024px) {
-    .main {
-        grid-template-columns: 1fr;
-    }
 
-    .rightblock {
-        margin: 20px;
-    }
-}
