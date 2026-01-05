@@ -151,11 +151,6 @@
     transition: 0.2s;
 }
 
-.choosesize:hover {
-    background: #4c7792;
-    color: #ffffff;
-}
-
 .bottom {
     padding: 12px 0;
     background-color: #333333;
